@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\TAR\Desktop\Templates\Basic\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="_content/DotNetify.Blazor" Path="C:\Users\TAR\.nuget\packages\dotnetify.blazor\1.0.0\build\..\staticwebassets\" />
+</StaticWebAssets>
